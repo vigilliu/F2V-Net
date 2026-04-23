@@ -5,3 +5,7 @@ python /root/dof_project/infer_single_ct_plane.py \
   --output-size 160 \
   --center-crop-size 96 \
   --device cpu
+
+
+best model pth：
+https://drive.google.com/file/d/1_KEBs8q-DYm6toutgbuny3hYh9ds4h3i/view?usp=drive_link
